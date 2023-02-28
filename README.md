@@ -1,5 +1,5 @@
 # testrepo
-Repositorio de pruebas
+Repositorio base para probar las tareas básicas de ódigo colaborativo con GitHub.
 
 ## Ejercicio
 Este es un repositorio de pruebas para conocer las funcionalidades elementales de gitHub, realizar cambios en forma local y contribuir al desarrollo de código colaborativo.

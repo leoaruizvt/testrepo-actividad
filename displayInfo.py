@@ -1,4 +1,4 @@
-# despliega informacion y revisa la consistencia de los archivos
+# Despliega informacion y revisa la consistencia de los archivos
 print("------------------")
 print("Revisión de consistencia del repositorio de pruebas")
 print("------------------")

@@ -5,7 +5,7 @@ Repositorio base para probar las tareas básicas de código colaborativo con Git
 Este es un repositorio de pruebas para conocer las funcionalidades elementales de gitHub, realizar cambios en forma local y contribuir al desarrollo de código colaborativo.
 Completar las actividades siguiendo las instrucciones a continuación:
 
-1. Utilice VSCode para clonar el repositorio 'testrepo-actividad' en su computador y hacer una derivación (fork) desde el repositorio original 'https://github.com/cear-inacap/testrepo-actividad.git'
+1. En su cuenta personal de GitHub, cree una derivación (fork) del repositorio de origen 'https://github.com/cear-inacap/testrepo-actividad.git'. Clone el repositorio en el espacio de trabajo de VSCode.
 2. Cree en forma local un nuevo archivo llamado 'CONTRIBUTE.txt'. Verifique que el nombre de archivo respete los caracteres en mayúsculas y minúsculas. Como contenido de ese archivo agregue su nombre de usuario de GitHub (2 puntos).
 3. Edite en forma local el archivo 'SYSTEM.info'. Modifique el contenido de este archivo para indicar la información del sistema operativo y versión de Python que está instalado en su computador (1 punto).
 4. Edite en forma local el archivo 'VERSION.info'. Modifique el contenido para indicar el cambio de versión del repositorio, que será '0.3.1' (1 punto).

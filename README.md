@@ -6,7 +6,7 @@ Este es un repositorio de pruebas para conocer las funcionalidades elementales d
 Completar las actividades siguiendo las instrucciones a continuación:
 
 1. Utilice VSCode para clonar el repositorio 'testrepo-actividad' en su computador y hacer una derivación (fork) desde el repositorio original 'https://github.com/cear-inacap/testrepo-actividad.git'
-2. Cree en forma local un nuevo archivo llamado 'CONTRIBUTE.txt'. Verifique que el nombre de archivo respete los caracteres en mayúsculas y nimúsculas. Como contenido de ese archivo agregue su nombre de usuario de GitHub (2 puntos).
+2. Cree en forma local un nuevo archivo llamado 'CONTRIBUTE.txt'. Verifique que el nombre de archivo respete los caracteres en mayúsculas y minúsculas. Como contenido de ese archivo agregue su nombre de usuario de GitHub (2 puntos).
 3. Edite en forma local el archivo 'SYSTEM.info'. Modifique el contenido de este archivo para indicar la información del sistema operativo y versión de Python que está instalado en su computador (1 punto).
 4. Edite en forma local el archivo 'VERSION.info'. Modifique el contenido para indicar el cambio de versión del repositorio, que será '0.3.1' (1 punto).
 5. Ejecute el archivo 'displayInfo.py'. Verifique que el código se ejecuta correctamente y no se despliegan mensajes de error. En caso que se despliegue algún mensaje de error, verifique que los pasos previos (y las acciones previas de configuración) se han realizado correctamente.
